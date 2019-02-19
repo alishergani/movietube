@@ -1,4 +1,4 @@
-# movietube
+# client
 
 ## Project setup
 ```
